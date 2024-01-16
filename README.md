@@ -4,7 +4,7 @@ O projeto Mario Jump é um jogo simples e divertido inspirado no famoso personag
 direito da tela, para bater os seus recordes competir com seus amigos.
 
 
-<h2>**Como Jogar?**<h2>
+**<h2>Como Jogar?<h2>**
 
 Abra o arquivo index.html em seu navegador;
 
