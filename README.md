@@ -13,7 +13,7 @@ Pressione a tecla de espaço para fazer o Mario pular;
 Desvie dos canos verdes para continuar o jogo.
 
 
-**<h3>Tecnologias usadas<h3>**
+**<h3>Tecnologias usadas:<h3>**
 
 HTML: Estruturação do conteúdo;
 
